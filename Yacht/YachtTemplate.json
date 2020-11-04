@@ -52,8 +52,8 @@
       },
       {
         "name": "TZ",
-        "label": "TZ"
-        "default": "America/Anchorage
+        "label": "TZ",
+        "default": "America/Anchorage"
       }
     ]
   }
