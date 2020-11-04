@@ -1426,7 +1426,7 @@
       },
             {
         "container": "/data/musics",
-        "bind": "!movies"
+        "bind": "!musics"
       }
     ],
     "env": [
